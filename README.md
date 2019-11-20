@@ -1,2 +1,2 @@
-# reactjs-challenge
+# Nomflix
 ReactJS Challenge
